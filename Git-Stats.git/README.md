@@ -28,5 +28,4 @@ Open a pull request in the original repository
 Licensing
 
 Saad Elbouhi
-GitHub Profile
-LinkedIn Profile
+
